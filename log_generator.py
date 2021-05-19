@@ -9,7 +9,7 @@ import shutil
 from datetime import datetime, timedelta
 from pathlib import Path
 
-_MAX_LOG_SIZE_BYTES = 2 ** 10  # 1GB
+_MAX_LOG_SIZE_BYTES = 2 ** 20  # 1MB
 
 _LOG_FILENAMES = 'log_a.jsonl', 'log_b.jsonl'
 _LOG_LEVELS = b'DEBUG', b'INFO', b'WARNING', b'ERROR'

@@ -1,9 +1,0 @@
-{"log_level": "ERROR", "timestamp": "2021-05-19 11:30:46", "message": "Dr. Zoidberg saw a rocket in L.A. yesterday"}
-{"log_level": "DEBUG", "timestamp": "2021-05-19 11:30:54", "message": "Amy brought a car near the Square Garden today"}
-{"log_level": "DEBUG", "timestamp": "2021-05-19 11:30:58", "message": "Farnsworth saw a bottle of bear at park yesterday"}
-{"log_level": "WARNING", "timestamp": "2021-05-19 11:31:07", "message": "Amy ate a bottle of bear near the Square Garden today"}
-{"log_level": "INFO", "timestamp": "2021-05-19 11:31:10", "message": "Bender brought an apple in L.A. today"}
-{"log_level": "INFO", "timestamp": "2021-05-19 11:31:16", "message": "Amy said a mall in L.A. day before yesterday"}
-{"log_level": "INFO", "timestamp": "2021-05-19 11:31:22", "message": "Fry ate a fish at park day after tomorrow"}
-{"log_level": "DEBUG", "timestamp": "2021-05-19 11:31:27", "message": "Fry took a fish on the Mars yesterday"}
-{"log_level": "WARNING", "timestamp": "2021-05-19 11:31:31", "message": "Fry brought a fish near the Square Garden yesterday"}
