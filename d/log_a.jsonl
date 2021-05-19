@@ -1,0 +1,9 @@
+{"log_level": "DEBUG", "timestamp": "2021-05-19 11:30:46", "message": "Farnsworth played a car on the Mars day after tomorrow"}
+{"log_level": "WARNING", "timestamp": "2021-05-19 11:30:46", "message": "Bender created a rocket in L.A. day before yesterday"}
+{"log_level": "DEBUG", "timestamp": "2021-05-19 11:30:47", "message": "Dr. Zoidberg brought a fish near the Square Garden day after tomorrow"}
+{"log_level": "INFO", "timestamp": "2021-05-19 11:30:55", "message": "Leela played a car on the Mars day after tomorrow"}
+{"log_level": "ERROR", "timestamp": "2021-05-19 11:31:01", "message": "Amy robbed a fish in L.A. today"}
+{"log_level": "DEBUG", "timestamp": "2021-05-19 11:31:02", "message": "Dr. Zoidberg built a fish near the Square Garden tomorrow"}
+{"log_level": "ERROR", "timestamp": "2021-05-19 11:31:06", "message": "Amy brought an apple at park tomorrow"}
+{"log_level": "INFO", "timestamp": "2021-05-19 11:31:07", "message": "Amy brought a fish in L.A. yesterday"}
+{"log_level": "DEBUG", "timestamp": "2021-05-19 11:31:12", "message": "Fry built a mall on the Mars tomorrow"}
